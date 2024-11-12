@@ -71,8 +71,8 @@ devDependencies:
     specifier: ^7.9.0
     version: 7.26.0(@babel/core@7.26.0)
   '@univerjs/webpack-plugin':
-    specifier: ^0.5.0
-    version: 0.5.0(webpack@4.47.0)
+    specifier: ^0.5.1
+    version: 0.5.1(webpack@4.47.0)
   babel-loader:
     specifier: ^8.1.0
     version: 8.4.1(@babel/core@7.26.0)(webpack@4.47.0)
@@ -1834,8 +1834,8 @@ packages:
       - typescript
     dev: false
 
-  /@univerjs/webpack-plugin@0.5.0(webpack@4.47.0):
-    resolution: {integrity: sha512-Ii1z/oZnE+hGepne8RZ0WGJ/WTLQAs5IW8Oz/aqIB8dYfU67kiqMPJXABm5UjtMC30fq1aujBSqJilc5UI55sQ==}
+  /@univerjs/webpack-plugin@0.5.1(webpack@4.47.0):
+    resolution: {integrity: sha512-CewBhgiwdkNnNBAqzAmrsd6k8PI2ULLVcOxW937gJYYZ4pFwhxG3BCRbe//dX1/fR1i8kkocI/pmKLKVxSWTkw==}
     engines: {node: '>=16.0.0', npm: '>=8.0.0'}
     peerDependencies:
       webpack: ^4.0.0 || ^5.0.0
